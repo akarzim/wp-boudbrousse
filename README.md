@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> Moved to [Codeberg](https://codeberg.org/akarzim/wp-boudbrousse)
+
 boudbrousse
 ===========
 
